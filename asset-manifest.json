@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Guess-The-Movie/static/css/main.603cdfde.chunk.css",
+    "main.js": "/Guess-The-Movie/static/js/main.c5afdf50.chunk.js",
+    "main.js.map": "/Guess-The-Movie/static/js/main.c5afdf50.chunk.js.map",
+    "runtime-main.js": "/Guess-The-Movie/static/js/runtime-main.ff8c8b41.js",
+    "runtime-main.js.map": "/Guess-The-Movie/static/js/runtime-main.ff8c8b41.js.map",
+    "static/js/2.0a02e746.chunk.js": "/Guess-The-Movie/static/js/2.0a02e746.chunk.js",
+    "static/js/2.0a02e746.chunk.js.map": "/Guess-The-Movie/static/js/2.0a02e746.chunk.js.map",
+    "index.html": "/Guess-The-Movie/index.html",
+    "static/css/main.603cdfde.chunk.css.map": "/Guess-The-Movie/static/css/main.603cdfde.chunk.css.map",
+    "static/js/2.0a02e746.chunk.js.LICENSE.txt": "/Guess-The-Movie/static/js/2.0a02e746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8c8b41.js",
+    "static/js/2.0a02e746.chunk.js",
+    "static/css/main.603cdfde.chunk.css",
+    "static/js/main.c5afdf50.chunk.js"
+  ]
+}
